@@ -7,3 +7,4 @@ make
 # To clean up
 make clean
 ```
+![Tricolor-India](tricolor-india.png)
